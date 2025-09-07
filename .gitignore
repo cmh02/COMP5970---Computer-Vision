@@ -203,3 +203,6 @@ __marimo__/
 # DS Store
 data/.DS_Store
 .DS_Store
+
+# Project folders
+classexamples/
