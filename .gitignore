@@ -206,3 +206,6 @@ data/.DS_Store
 
 # Project folders
 classexamples/
+
+# VSC
+COMP5970 - Computer Vision.code-workspace
