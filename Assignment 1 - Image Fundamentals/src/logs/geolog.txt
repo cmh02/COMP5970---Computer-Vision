@@ -1,0 +1,7 @@
+0,0,FlipType.NONE
+0,0,RotateType.NONE
+0,0,FlipType.NONE
+0,0,RotateType.NONE
+0,0,SwapType.RIGHT
+0,0,FlipType.NONE
+0,0,RotateType.NONE
